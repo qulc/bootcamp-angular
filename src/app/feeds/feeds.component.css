@@ -1,0 +1,10 @@
+.feed-card {
+    max-width: 400px;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 5px;
+}
+
+.feed-header-image {
+    background-size: cover;
+}

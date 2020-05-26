@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "bootcamp"
+  "defaultProject": "bootcamp",
+  "cli": {
+    "analytics": false
+  }
 }
